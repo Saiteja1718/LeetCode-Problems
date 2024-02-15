@@ -31,3 +31,5 @@ class Solution:
             if value!=0:
                 return False
         return True
+
+# TC : O(N)
