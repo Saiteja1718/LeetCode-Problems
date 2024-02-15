@@ -36,4 +36,6 @@ class Solution:
         for value in anagram_map.values():
             result.append(value)
         return result
-        
+
+
+# TC : O(N)
