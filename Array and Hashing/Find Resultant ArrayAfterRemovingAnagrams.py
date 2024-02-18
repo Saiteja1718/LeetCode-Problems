@@ -48,4 +48,4 @@ class Solution:
     def checkAnagram(self ,s1:str  , s2 : str) : 
         return Counter(s1) == Counter(s2)
     
-# TC : O(N)
+# TC:O(N)
